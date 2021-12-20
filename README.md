@@ -33,11 +33,11 @@ Using Animations:
  - Space Bar: It is used to shoot the ball where arrow is facing.
 
 ## Views
-Robot movement on path 
-Cannon and bullet rendering 
-Cannon firing bullet 
-Bullet and any of 2 robot collision detection 
-2 Robots 
-Help menu in start 
+ - Robot movement on path 
+ - Cannon and bullet rendering 
+ - Cannon firing bullet 
+ - Bullet and any of 2 robot collision detection 
+ - 2 Robots 
+ - Help menu in start 
 
 
