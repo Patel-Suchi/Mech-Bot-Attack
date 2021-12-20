@@ -28,9 +28,9 @@ As we have loaded OBJ Models for Cannon and Bullet it can take some time to load
 
 Using Animations:
 
-A Key: A key is used to move cannon on left.
-D Key: D key is used to move the cannon on right 
-Space Bar: It is used to shoot the ball where arrow is facing.
+ - A Key: A key is used to move cannon on left.
+ - D Key: D key is used to move the cannon on right 
+ - Space Bar: It is used to shoot the ball where arrow is facing.
 
 ## Views
 Robot movement on path 
