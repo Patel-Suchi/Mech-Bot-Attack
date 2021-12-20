@@ -1,5 +1,3 @@
-# Robot-Animation 
-
 A computer graphics assignment to demonstrate an understanding of OpenGL, by modelling an interactive Robot & Cannon.
 
 ## Introduction
